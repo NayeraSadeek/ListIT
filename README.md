@@ -70,3 +70,8 @@ composer install --no-dev --optimize-autoloader
 php artisan migrate --force
 npm run build
 Make sure your .env is configured properly
+
+## Some ScreenShots 📷📷
+
+
+

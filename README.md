@@ -72,6 +72,9 @@ npm run build
 Make sure your .env is configured properly
 
 ## Some ScreenShots 📷📷
-
+![Screenshot 1](Screenshot%202025-08-02%20185637.png)
+![Screenshot 2](Screenshot%202025-08-02%20185623.png)
+![Screenshot 3](Screenshot%202025-08-02%20185601.png)
+![Screenshot 4](Screenshot%202025-08-02%20185532.png)
 
 

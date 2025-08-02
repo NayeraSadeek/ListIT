@@ -17,17 +17,6 @@ A practical task management web application built using **Laravel 12**, **Blade*
 
 ---
 
-## 🎯 Learning Objectives
-
-This beginner-to-intermediate project (Difficulty: ★★☆☆☆ 2/5) reinforces Laravel fundamentals:
-
-- Laravel routing and controller structure
-- Blade view rendering
-- Eloquent ORM for database interaction
-- Form handling with validation
-- Tailwind CSS basics (utility-first styling)
-- Laravel Artisan commands and task scheduling
-- Environment config and deployment basics
 
 ---
 

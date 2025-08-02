@@ -7,18 +7,24 @@ A practical task management web application built using **Laravel 12**, **Blade*
 ## 🚀 Features
 
 ✅ **User Authentication** (Login, Register)
+
 ✅ **Task Management (CRUD)**
+
 ✅ **Category Management (CRUD)**
+
 ✅ **Task Filtering by Category**
+
 ✅ **Progress Tracking**
+
 ✅ **Recurring Task Scheduling** (via `php artisan`)
+
 ✅ **Blade Templating + Tailwind Styling**
+
 ✅ **Dynamic Dashboard for Users**
 
----
-
 
 ---
+
 
 ## 🛠 Tech Stack
 
